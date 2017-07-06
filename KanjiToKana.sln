@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanjiToKana", "KanjiToKana\KanjiToKana.csproj", "{578D2AAD-5E4C-4568-9D52-79A28D5B2353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanjiToKanaRunner", "KanjiToKanaRunner\KanjiToKanaRunner.csproj", "{04106E33-1333-4737-BF88-823FA9A0FF9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{578D2AAD-5E4C-4568-9D52-79A28D5B2353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578D2AAD-5E4C-4568-9D52-79A28D5B2353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578D2AAD-5E4C-4568-9D52-79A28D5B2353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578D2AAD-5E4C-4568-9D52-79A28D5B2353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04106E33-1333-4737-BF88-823FA9A0FF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04106E33-1333-4737-BF88-823FA9A0FF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04106E33-1333-4737-BF88-823FA9A0FF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04106E33-1333-4737-BF88-823FA9A0FF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
